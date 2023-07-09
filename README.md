@@ -1,3 +1,2 @@
 # Unet
-
-This notebook will try to build a Unet from Scratch Using TensorFlow and Keras
+Ground Up Implementation of Unet using Keras and TensorFlow 
